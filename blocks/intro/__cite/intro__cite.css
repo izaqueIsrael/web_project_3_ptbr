@@ -1,0 +1,17 @@
+.intro__cite{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 2.125rem;
+    max-width: 45rem;
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px){
+    .intro__cite{
+        font-weight: 400;
+        font-size: 1.5rem;
+        line-height: 2.125rem;
+    }
+}
+

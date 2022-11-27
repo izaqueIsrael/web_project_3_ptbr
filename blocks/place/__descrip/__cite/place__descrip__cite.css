@@ -1,0 +1,13 @@
+.place__descrip__cite{
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px){
+    .place__descrip__cite{
+        font-weight: 400;
+        font-size: 1.125rem;
+        line-height: 22px;
+    }
+}

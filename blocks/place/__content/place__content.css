@@ -1,0 +1,9 @@
+.place__content{
+    display: flex;
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px) {
+    .place__content{
+        display: block;
+    }
+}

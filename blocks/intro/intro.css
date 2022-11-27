@@ -1,0 +1,27 @@
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #2a2c2f;
+    padding-top: 6rem;
+    margin: 0 1.5rem;
+}
+
+@media screen and (min-width: 1280px) {
+    .intro{
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro{
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px) {
+    .intro{
+        padding: 2.75rem 0 0 0;
+    }
+}

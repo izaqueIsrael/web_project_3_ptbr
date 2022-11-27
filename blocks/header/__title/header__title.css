@@ -1,0 +1,31 @@
+.header__title{
+    max-width: 49.5625rem;
+    text-align: center;
+    margin-top: 5.6875rem;
+    font-size: 6rem;
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 100px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+    .header__title{
+        margin-bottom: 6.1875rem;
+        font-weight: 900;
+        font-size: 96px;
+        line-height: 100px;
+        max-width: 45rem;
+    }
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px) {
+    .header__title{
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 44px;
+        margin: 0 0 6.1875rem 0;
+        max-width: 18rem;
+    }
+}
+
+

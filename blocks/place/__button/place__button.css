@@ -1,0 +1,12 @@
+.place__button{
+    width: 22.1875rem;
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px){
+    .place__button{
+        /* width: 18rem; */
+        padding: 16px 22px;
+        width: 90%;
+        margin: 0 auto;
+    }
+}

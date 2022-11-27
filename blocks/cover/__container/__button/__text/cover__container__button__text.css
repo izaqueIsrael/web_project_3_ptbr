@@ -1,0 +1,7 @@
+@media screen and (min-width: 20rem)  and (max-width: 767px){
+    .cover__container__button__text{
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+    }   
+}

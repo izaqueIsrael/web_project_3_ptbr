@@ -1,0 +1,14 @@
+.place__titles{
+    display: flex;
+    margin-bottom: 3rem;
+}
+
+@media screen and (min-width: 20rem)  and (max-width: 767px) {
+    .place__titles{
+        display: flex;
+        flex-direction: column;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 0;
+    }
+}
