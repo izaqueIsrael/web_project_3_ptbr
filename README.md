@@ -17,3 +17,13 @@ Este é um projeto que mostra as cidades de origem de alguns funcionários do Pr
 A maneira como você fará isso no trabalho é exportando imagens diretamente do Figma — recomendamos fazer isso para praticar mais. Não se esqueça de otimizá-los [aqui](https://tinypng.com/), para que seu projeto carregue mais rápido. 
   
 Boa sorte e divirta-se!   
+
+**Link do domínio git**
+
+https://isaac-israel.github.io/web_project_3_ptbr/
+
+No github está upada a versão com svgs ao invés de PNG
+
+**Link do repositório**
+
+https://github.com/isaac-israel/web_project_3_ptbr

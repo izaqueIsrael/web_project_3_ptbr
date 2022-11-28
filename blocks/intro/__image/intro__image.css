@@ -12,6 +12,7 @@
 
 @media screen and (min-width: 20rem)  and (max-width: 767px){
     .intro__image{
+        width: 100%;
         margin-bottom: .75rem;
     }
 }

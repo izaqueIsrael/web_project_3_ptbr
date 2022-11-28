@@ -4,19 +4,13 @@
     align-items: center;
     flex-direction: column;
     background-color: #2a2c2f;
-    padding-top: 6rem;
+    padding: 5.5rem 0 0 0;
     margin: 0 1.5rem;
 }
 
 @media screen and (min-width: 1280px) {
     .intro{
         margin-left: 4rem;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .intro{
-        margin: 0;
     }
 }
 

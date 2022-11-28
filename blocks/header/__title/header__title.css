@@ -1,7 +1,7 @@
 .header__title{
     max-width: 49.5625rem;
     text-align: center;
-    margin-top: 5.6875rem;
+    margin: 5.6875rem 0 0 0;
     font-size: 6rem;
     font-size: 96px;
     font-weight: 900;
@@ -10,7 +10,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1280px) {
     .header__title{
-        margin-bottom: 6.1875rem;
+        margin: 5.6875rem 0 6.1875rem 0;
         font-weight: 900;
         font-size: 96px;
         line-height: 100px;
@@ -23,8 +23,8 @@
         font-weight: 900;
         font-size: 40px;
         line-height: 44px;
-        margin: 0 0 6.1875rem 0;
-        max-width: 18rem;
+        margin: 0 1rem 3.75rem 1rem;
+        min-width: 20rem;
     }
 }
 
