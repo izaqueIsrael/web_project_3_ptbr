@@ -1,4 +1,4 @@
-.cover__container__line__text{
+.cover__text{
     font-weight: 400;
     font-size: 1.75rem;
     line-height: 1.375rem;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (min-width: 20rem)  and (max-width: 767px) {
-    .cover__container__line__text{
+    .cover__text{
         font-weight: 400;
         font-size: 14px;
         line-height: 16px;

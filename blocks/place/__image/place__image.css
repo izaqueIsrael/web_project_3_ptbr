@@ -1,16 +1,16 @@
-.place__content__img{
+.place__image{
     width: 28.75rem;
     height: 28.75rem;
 }
 
 @media screen and (min-width: 1280px) {
-    .place__content__img{
+    .place__image{
         margin-bottom: 3rem;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1280px){
-    .place__content__img{
+    .place__image{
         width: 21.25rem;
         margin-bottom: 3rem;
         height: auto;
@@ -18,7 +18,7 @@
 }
 
 @media screen and (min-width: 20rem)  and (max-width: 767px){
-    .place__content__img{
+    .place__image{
         width: 100%;
         height: auto;
         margin-bottom: 1.875rem;

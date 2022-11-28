@@ -1,9 +1,9 @@
-.place__button_out{
+.place__button-out{
     display: none;
 }
 
 @media screen and (min-width: 20rem)  and (max-width: 767px) {
-    .place__button_out{
+    .place__button-out{
         display: flex;
     }
 }

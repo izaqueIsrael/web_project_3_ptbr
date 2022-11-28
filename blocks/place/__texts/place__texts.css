@@ -1,17 +1,17 @@
-.place__content__texts{
+.place__texts{
     display: flex;
     flex-direction: column;
     margin-left: 2.5rem;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1280px){
-    .place__content__texts{
+    .place__texts{
         margin-left: .8125rem;
     }
 }
 
 @media screen and (min-width: 20rem) and (max-width: 47.9375rem){
-    .place__content__texts{
+    .place__texts{
         display: block;
         margin-bottom: 4.5rem;
         margin: 0 1rem;

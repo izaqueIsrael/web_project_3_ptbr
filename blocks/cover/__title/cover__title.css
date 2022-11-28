@@ -1,4 +1,4 @@
-.cover__container__title{
+.cover__title{
     font-weight: 900;
     font-size: 4.5rem;
     line-height: 4.75rem;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (min-width: 20rem)  and (max-width: 767px) {
-    .cover__container__title{
+    .cover__title{
         font-weight: 900;
         font-size: 2rem;
         line-height: 2.1875rem;
