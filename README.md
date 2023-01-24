@@ -20,10 +20,13 @@ Boa sorte e divirta-se!
 
 **Link do domínio git**
 
-https://isaac-israel.github.io/web_project_3_ptbr/
+https://izaqueisrael.github.io/web_project_3_ptbr/
 
 No github está upada a versão com svgs ao invés de PNG
 
 **Link do repositório**
 
 https://github.com/isaac-israel/web_project_3_ptbr
+
+**Tecnologias Usadas**
+HTML para o corpo e CSS para a estilização
