@@ -29,4 +29,5 @@ No github está upada a versão com svgs ao invés de PNG
 https://github.com/isaac-israel/web_project_3_ptbr
 
 **Tecnologias Usadas**
+
 HTML para o corpo e CSS para a estilização
