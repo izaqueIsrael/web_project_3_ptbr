@@ -18,15 +18,11 @@ A maneira como você fará isso no trabalho é exportando imagens diretamente do
   
 Boa sorte e divirta-se!   
 
-**Link do domínio git**
+**Link da Página**
 
-https://izaqueisrael.github.io/web_project_3_ptbr/
+* [Link do Compilador online](https://izaqueisrael.github.io/web_project_3_ptbr/)
 
 No github está upada a versão com svgs ao invés de PNG
-
-**Link do repositório**
-
-https://github.com/isaac-israel/web_project_3_ptbr
 
 **Tecnologias Usadas**
 
